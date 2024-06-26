@@ -1,0 +1,3 @@
+[submodule "basic_skills"]
+	path = basic_skills
+	url = https://github.com/sdsc-hpc-training-org/basic_skills.git

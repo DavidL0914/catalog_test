@@ -1,0 +1,12 @@
+remote_theme: rundocs/jekyll-rtd-theme
+
+plugins:
+  - jekyll-remote-theme
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+rtd:
+  sidebar:
+    nav: index
